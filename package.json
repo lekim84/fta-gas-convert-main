@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/lekim84/fta-gas-convert/issues"
   },
-  "homepage": "https://github.com/0xftm/fta-gas-convert#readme",
+  "homepage": "https://github.com/lekim84/fta-gas-convert#readme",
   "dependencies": {
     "web3": "^1.5.2",
   "fta-gas-convert": "^1.0.0",
